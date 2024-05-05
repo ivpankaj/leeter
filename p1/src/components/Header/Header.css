@@ -1,0 +1,20 @@
+.header{
+    height: 10%;
+    width: 100%;
+    background-color: white;
+ 
+}
+.header ul{
+    display: flex;
+    gap: 10%;
+    margin-right: 2%;
+    justify-content: end;
+}
+.header ul button{
+    list-style: none;
+    font-size: 150%;
+}
+button{
+    background-color: white;
+    border: none;
+}
